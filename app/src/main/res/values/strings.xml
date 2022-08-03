@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Login and Registration</string>
+    <string name="login">Login</string>
+    <string name="inputEmail"></string>
+    <string name="inputPassword"></string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="dont_have_an_account">Don\'t have an Account?</string>
+    <string name="signup">SignUp</string>
+    <string name="register">Register</string>
+    <string name="inputusername2"></string>
+    <string name="inputEmail2"></string>
+    <string name="btn_register">Register</string>
+    <string name="already_have_account">Already have an Account?</string>
+</resources>
